@@ -45,7 +45,7 @@ This project is an interactive CPU Scheduling Simulator developed using Python a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CPU-Scheduling-Simulator.git
+git clone https://github.com/ParavSharma007/CPU-Scheduling-Simulator.git
 ```
 
 2. Navigate to project folder:
