@@ -66,9 +66,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📊 Screenshots
-
-(Add screenshots of your UI, Gantt chart, and results here)
 
 ## Learning Outcome
 
